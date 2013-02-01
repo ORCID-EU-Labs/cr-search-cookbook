@@ -1,4 +1,4 @@
 cr-search-cookbook
-==================
+============
 
-Chef cookbook for cr-search
+Chef cookbook for installing cr-search
