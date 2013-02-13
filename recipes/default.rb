@@ -1,3 +1,8 @@
+# Install Redis
+package "redis-server" do
+  action :install
+end
+
 # Run bundle command
 script "bundle" do
   interpreter "bash"
