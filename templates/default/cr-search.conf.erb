@@ -1,7 +1,7 @@
 <VirtualHost *:80>
     LogLevel warn
     DocumentRoot /vagrant/public
-	ServerAdmin <%= node[:admin][:email] %>
+    ServerAdmin <%= node[:admin][:email] %>
 
     <Directory />
       Options FollowSymLinks

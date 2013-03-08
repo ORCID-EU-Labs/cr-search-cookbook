@@ -2,7 +2,7 @@
   "name": "cr-search",
   "description": "Configures cr-search",
   "maintainer": "Martin Fenner",
-  "maintainer_email": "mfenner@plos.org",
+  "maintainer_email": "m.fenner@orcid-eu.org",
   "license": "Apache 2.0",
   "platforms": {
     "ubuntu": ">= 0.0.0"
@@ -11,10 +11,8 @@
     "apt": ">= 0.0.0",
     "build-essential": ">= 0.0.0",
     "git": ">= 0.0.0",
-    "ruby_build": ">= 0.0.0",
-    "rbenv": ">= 0.0.0",
     "passenger_apache2": ">= 0.0.0",
-    "mongodb": ">= 0.11.0"
+    "chef-mongodb": ">= 0.0.0"
   },
-  "version": "1.0.0"
+  "version": "1.0.1"
 }
